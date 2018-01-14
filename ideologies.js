@@ -234,7 +234,7 @@ ideologies = [
         }
     },
     {
-        "name": "中间派主义",
+        "name": "中间派",
         "stats": {
             "econ": 50,
             "dipl": 50,
